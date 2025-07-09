@@ -1,0 +1,23 @@
+{"timestamp":233147,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","can_load":"false","glean_timestamp":"1752045604430","loadfail_reason":"File doesn't exist."}}
+{"timestamp":233173,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"N/A","path_key":"recovery","can_load":"true","glean_timestamp":"1752045604456"}}
+{"timestamp":233174,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1752045604457","loadfail_reason":"N/A","path_key":"recovery","can_load":"true"}}
+{"timestamp":233179,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_ok":"true","glean_timestamp":"1752045604461","shutdown_reason":"final-state-write-incomplete"}}
+{"timestamp":234339,"category":"webcompatreporting","name":"reason_dropdown","extra":{"glean_timestamp":"1752045605621","setting":"required"}}
+{"timestamp":235719,"category":"jsonfile","name":"load_autofillprofiles","extra":{"value":"","glean_timestamp":"1752045607002"}}
+{"timestamp":236841,"category":"doh","name":"state_rollback","extra":{"value":"null","glean_timestamp":"1752045608124"}}
+{"timestamp":237478,"category":"normandy","name":"validation_failed_nimbus_experiment","extra":{"reason":"invalid-feature","glean_timestamp":"1752045608761","value":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF"}}
+{"timestamp":237478,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"addAnImageInPDF","glean_timestamp":"1752045608761","experiment":"add-an-image-to-pdf-with-alt-text-rollout"}}
+{"timestamp":237479,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1752045608762"}}
+{"timestamp":237505,"category":"upgrade_dialog","name":"trigger_reason","extra":{"value":"not-major","glean_timestamp":"1752045608788"}}
+{"timestamp":324808,"category":"devtools.main","name":"open_tools","extra":{"host":"bottom","glean_timestamp":"1752045696091","first_panel":"inspector","shortcut":"accel+shift+C","session_id":"-1","entrypoint":"KeyShortcut","splitconsole":"false","width":"1250"}}
+{"timestamp":324810,"category":"devtools.main","name":"enter_inspector","extra":{"host":"bottom","width":"1250","start_state":"initial_panel","cold":"true","glean_timestamp":"1752045696092","session_id":"-1","panel_name":"inspector"}}
+{"timestamp":328945,"category":"devtools.main","name":"tool_timer_layoutview","extra":{"glean_timestamp":"1752045700228","time_open":"4899","session_id":"93854","os":"Linux 6.11.0-29-generic"}}
+{"timestamp":329024,"category":"devtools.main","name":"tool_timer_ruleview","extra":{"session_id":"93854","glean_timestamp":"1752045700307","os":"Linux 6.11.0-29-generic","time_open":"5006"}}
+{"timestamp":329033,"category":"devtools.main","name":"exit_inspector","extra":{"width":"1250","reason":"toolbox_close","panel_name":"inspector","session_id":"93854","host":"bottom","next_panel":"none","glean_timestamp":"1752045700316"}}
+{"timestamp":329034,"category":"devtools.main","name":"close_tools","extra":{"session_id":"93854","host":"bottom","glean_timestamp":"1752045700317","width":"1250"}}
+{"timestamp":331807,"category":"devtools.main","name":"open_tools","extra":{"splitconsole":"false","width":"1250","glean_timestamp":"1752045703090","session_id":"-1","host":"bottom","shortcut":"accel+shift+C","entrypoint":"KeyShortcut","first_panel":"inspector"}}
+{"timestamp":331807,"category":"devtools.main","name":"enter_inspector","extra":{"start_state":"initial_panel","glean_timestamp":"1752045703090","host":"bottom","width":"1250","panel_name":"inspector","session_id":"-1","cold":"true"}}
+{"timestamp":332104,"category":"devtools.main","name":"tool_timer_layoutview","extra":{"os":"Linux 6.11.0-29-generic","glean_timestamp":"1752045703387","session_id":"101761","time_open":"821"}}
+{"timestamp":332108,"category":"devtools.main","name":"tool_timer_ruleview","extra":{"os":"Linux 6.11.0-29-generic","time_open":"836","session_id":"101761","glean_timestamp":"1752045703391"}}
+{"timestamp":332112,"category":"devtools.main","name":"exit_inspector","extra":{"glean_timestamp":"1752045703395","next_panel":"none","session_id":"101761","panel_name":"inspector","width":"1250","host":"bottom","reason":"toolbox_close"}}
+{"timestamp":332112,"category":"devtools.main","name":"close_tools","extra":{"width":"1250","glean_timestamp":"1752045703395","session_id":"101761","host":"bottom"}}
